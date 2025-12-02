@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib
+langchain
+faiss-cpu
+PyPDF2
+openai
