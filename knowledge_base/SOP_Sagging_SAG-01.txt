@@ -1,0 +1,21 @@
+
+SOP: Defect Code Handling — Sagging (Paint Runs)
+------------------------------------------------
+Scope: Paint shop — Topcoat application
+
+Root Cause:
+- Excessive film thickness due to nozzle clogging or overspray.
+- Inadequate flash/dry time between coats.
+- Ambient humidity high above recommended levels during application.
+
+Action:
+1. Stop the line for the affected vehicle(s).
+2. Inspect nozzle and spray parameters; clean or replace nozzle if needed.
+3. Remove sagged panel using approved rework station.
+4. Re-sand affected area, apply primer as per spec, re-apply topcoat with correct parameters.
+5. Update the daily log with defect code: SAG-01 and operator notes.
+
+Control:
+- Implement a daily nozzle inspection checklist on Shift A changeover.
+- Add humidity check alert to the control room dashboard (threshold 60% RH).
+- Monthly training for operators on spray pattern and distance.

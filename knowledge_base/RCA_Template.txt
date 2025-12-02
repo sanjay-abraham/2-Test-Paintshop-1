@@ -1,0 +1,20 @@
+
+RCA Template — Paint Defect
+--------------------------
+Problem Statement:
+- [Short description of defect, where and when observed]
+
+Root Causes (investigate):
+- Equipment (nozzle, conveyor alignment)
+- Materials (paint batch, viscosity)
+- Process (cycle, temperatures)
+- People (operator technique)
+- Environment (humidity, contamination)
+
+Immediate Actions:
+- Containment steps to stop further defects
+- Short-term fixes and who owns them
+
+Long-term Controls:
+- Process change, SPC, training, preventative maintenance
+- KPIs to monitor (defect count, rework minutes)
