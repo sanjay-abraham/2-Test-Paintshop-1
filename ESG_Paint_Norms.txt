@@ -1,0 +1,8 @@
+
+ESG Paint Consumption Norms — Paint Shop (Example Norms)
+-------------------------------------------------------
+- VOC limits: <= 250 g/L for solvent-borne topcoats (company guideline); prefer low-VOC formulations where possible.
+- Paint waste target: <= 3% by liters (measured as (used - standard)/standard).
+- Energy: Oven energy per unit (kWh/unit) target: <= 12 kWh/unit for current process.
+- Waste handling: Segregate solvent waste; recycling target 60% of solvent capture by 2026.
+- Reporting: Monthly ESG dashboard with paint kg/m2, VOC kg emitted, energy kWh/unit, and solvent waste %.

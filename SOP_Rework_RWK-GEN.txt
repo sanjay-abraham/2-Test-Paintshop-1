@@ -1,0 +1,17 @@
+
+SOP: Rework Standard Steps — Paint Runs (General)
+------------------------------------------------
+Root Cause:
+- Contaminants on surface, incorrect cure, or mechanical damage during handling.
+
+Action:
+1. Isolate the vehicle and tag with rework code RWK-GEN.
+2. Clean the area using approved solvent; perform visual inspection.
+3. Sand to remove defect; feather edges to blend.
+4. Apply primer (if required) and dry per oven specs.
+5. Re-apply topcoat at standard parameters and cure as per spec.
+6. Final inspection and sign-off by Quality Engineer.
+
+Control:
+- Limit rework queue to X vehicles per shift; escalate beyond threshold.
+- Record cycle time added and root cause in RCA register.
